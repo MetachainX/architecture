@@ -22,6 +22,11 @@ pip install diagrams
 ```
 
 
+# Example
+
+Internet Banking System Diagram
+
+![ibs_example](ibs_example.png)
 
 
 
